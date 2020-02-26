@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs/ShoppingList2/v16/Server/sqlite3
+/ShoppingList2/bin/Debug/netcoreapp3.1
+/ShoppingList2/obj
+/ShoppingList2.sln
